@@ -1,0 +1,8 @@
+{
+    "extends": "standard",
+    "rules":{
+        "no-var": "error",
+        "prefer-const": "error",
+        "prefer-arrow-callback":"error"
+    }
+}
